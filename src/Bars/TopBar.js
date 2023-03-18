@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 
 import AppBar from "@mui/material/AppBar";
 import Container from "@mui/material/Container";
@@ -12,16 +12,16 @@ import Avatar from "@mui/material/Avatar";
 
 const TopBar = () => {
 	return (
-		<AppBar className="TopBar" position="fixed" sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}>
-			<Container maxWidth="xl">
+		<AppBar className='TopBar' position='fixed' sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}>
+			<Container maxWidth='xl'>
 				<Toolbar disableGutters>
-					<PetsIcon color="warning" sx={{ display: { xs: "none", md: "flex" }, mr: 1 }} />
+					<PetsIcon color='warning' sx={{ display: { xs: "none", md: "flex" }, mr: 1 }} />
 					<Typography
-						variant="h5"
-						color="yellow"
+						variant='h5'
+						color='yellow'
 						noWrap
-						component="a"
-						href="/"
+						component='a'
+						href='/'
 						sx={{
 							mr: 2,
 							display: { xs: "none", md: "flex" },
@@ -34,9 +34,9 @@ const TopBar = () => {
 						Huski
 					</Typography>
 					<Box sx={{ flexGrow: 0 }}>
-						<Tooltip title="My Profile">
+						<Tooltip title='My Profile'>
 							<IconButton sx={{ p: 0 }}>
-								<Avatar src={require("./avatar.jpg")} />
+								<Avatar src={require("../Media/avatar.jpg")} />
 							</IconButton>
 						</Tooltip>
 					</Box>

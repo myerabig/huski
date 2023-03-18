@@ -6,7 +6,7 @@ const theme = createTheme({
         dark: '#2B2B2B',
         yellow: '#FFCD00',
         lightdark: '#3C3C3C',
-
+		light: '#FFFFFF',
 		primary: {
 			main: '#2B2B2B',
 		},
@@ -30,7 +30,7 @@ const theme = createTheme({
 		},
 		divider: '#383F40',
 		info: {
-			main: '#B2D6ED',
+			main: '#FFFFFF',
 		},
 	},
 	typography: {
