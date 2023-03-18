@@ -1,9 +1,10 @@
 import "./App.css";
+import TopBar from "./TopBar";
 
 const App = () => {
 	return (
 		<div className="App">
-			<h1>Huski</h1>
+      <TopBar/>
 		</div>
 	);
 };
