@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import "./App.css";
 import TopBar from "./Bars/TopBar";
 import SideBar from "./Bars/SideBar";
-import Explore from "./Pages/Explore";
+import Explore from "./Pages/Explore/Explore";
 import People from "./Pages/People";
 import Classes from "./Pages/Classes";
 import Messages from "./Pages/Messages";
