@@ -14,7 +14,7 @@ import Stack from "@mui/material/Stack";
 const Explore = () => {
 	const [posts, setPosts] = useState([
 		{
-			name: "Test Person 1",
+			name: "Math Student",
 			message: "Anyone have a calculator I can borrow?",
 		},
 		{
@@ -26,17 +26,16 @@ const Explore = () => {
 			message: "Who stole the husky statue???",
 		},
 		{
-			name: "Amogus",
-			message:
-				"GUYS IT LITERALLY SAYS YOU ARE SUS LIKE THE VIDEO GAME SUS EVERYBODY IN THE VIDEO GAME USE THE WORD SUS. AND AMONG US? SUS? THAT CONNECTS, AND WE JUST GOT BACK FROM MCDONALDS IT HAS TO BE THE EMPLOYEES OR THE IMPOSTER.",
+			name: "MUBBoard",
+			message: "Don't forget to register for the MUBBoard March Madness bracket! Signup closes in a few days!"
 		},
 		{
-			name: "Your mother",
+			name: "Artist",
 			message:
 				"⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⢤⣠⠀⠀\n⠀⣼⠋⠈⠘⠹⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠈⠀⠸⡧⠀\n⠀⢳⡌⢄⠀⠄⠘⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⢃⠠⠀⢂⣼⠏⠀\n⠀⠀⠙⣦⢂⠀⠀⠘⣷⡀⠀⠀⠀⠀⣀⣄⣀⠀⠀⠀⠀⣸⠃⠄⠀⢀⣾⠃⠀⠀\n⠀⠀⠀⠈⢖⢄⠠⠀⢹⣦⠀⠀⡔⢏⠁⠈⣸⡖⣄⠀⠀⡎⡐⠀⢀⢵⠇⠀⠀⠀\n⠀⠀⢠⡶⠛⡆⠄⠀⠀⢿⡄⡎⡑⠀⠀⣰⡞⠀⢘⣧⣨⠡⠂⠀⠐⢟⣦⠀⠀⠀\n⠀⡠⣽⠂⠀⢑⠁⠀⠠⠈⢇⠂⠀⢀⣾⢏⢀⠀⠀⠈⢉⠠⠁⠀⠠⠀⠪⣇⠀⠀\n⣸⡇⠱⠡⠀⠀⡀⠠⠀⠀⠀⠀⢀⣾⠇⠈⢧⠐⡈⠀⠀⠀⠀⠀⡀⠀⠨⡃⢹⡀\n⣿⠂⠀⠀⠄⠀⠀⠀⠀⡀⠁⠀⢐⣯⠀⠀⠈⡧⢂⢀⠀⠂⠀⠁⠀⠀⡀⠀⢰⡇\n⢺⡇⠀⡁⠀⡀⠈⠀⠀⠀⠀⢐⢼⠇⠀⠀⠀⢻⡄⠀⢀⠠⠀⠠⠀⢄⠠⠈⣼⠁\n⠀⢻⣄⠠⠑⢄⢂⠂⠁⠀⢡⡼⠋⠀⠀⠀⠀⠈⢳⣔⢀⠐⢈⠢⢑⠐⡡⡼⠃⠀\n⠀⠀⠘⠳⢦⣢⣠⣡⡤⡗⠏⠂⠀⠀⠀⠀⠀⠀⠀⠘⠻⢺⢦⢶⢖⠗⠋⠁⠀⠀",
 		},
 		{
-			name: "Edward Cullen",
+			name: "Screenwriter",
 			message: `FADE IN:
           
           
