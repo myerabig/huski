@@ -27,12 +27,7 @@ const Explore = () => {
 		},
 		{
 			name: "MUBBoard",
-			message: "Don't forget to register for the MUBBoard March Madness bracket! Signup closes in a few days!"
-		},
-		{
-			name: "Artist",
-			message:
-				"⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⢤⣠⠀⠀\n⠀⣼⠋⠈⠘⠹⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠈⠀⠸⡧⠀\n⠀⢳⡌⢄⠀⠄⠘⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⢃⠠⠀⢂⣼⠏⠀\n⠀⠀⠙⣦⢂⠀⠀⠘⣷⡀⠀⠀⠀⠀⣀⣄⣀⠀⠀⠀⠀⣸⠃⠄⠀⢀⣾⠃⠀⠀\n⠀⠀⠀⠈⢖⢄⠠⠀⢹⣦⠀⠀⡔⢏⠁⠈⣸⡖⣄⠀⠀⡎⡐⠀⢀⢵⠇⠀⠀⠀\n⠀⠀⢠⡶⠛⡆⠄⠀⠀⢿⡄⡎⡑⠀⠀⣰⡞⠀⢘⣧⣨⠡⠂⠀⠐⢟⣦⠀⠀⠀\n⠀⡠⣽⠂⠀⢑⠁⠀⠠⠈⢇⠂⠀⢀⣾⢏⢀⠀⠀⠈⢉⠠⠁⠀⠠⠀⠪⣇⠀⠀\n⣸⡇⠱⠡⠀⠀⡀⠠⠀⠀⠀⠀⢀⣾⠇⠈⢧⠐⡈⠀⠀⠀⠀⠀⡀⠀⠨⡃⢹⡀\n⣿⠂⠀⠀⠄⠀⠀⠀⠀⡀⠁⠀⢐⣯⠀⠀⠈⡧⢂⢀⠀⠂⠀⠁⠀⠀⡀⠀⢰⡇\n⢺⡇⠀⡁⠀⡀⠈⠀⠀⠀⠀⢐⢼⠇⠀⠀⠀⢻⡄⠀⢀⠠⠀⠠⠀⢄⠠⠈⣼⠁\n⠀⢻⣄⠠⠑⢄⢂⠂⠁⠀⢡⡼⠋⠀⠀⠀⠀⠈⢳⣔⢀⠐⢈⠢⢑⠐⡡⡼⠃⠀\n⠀⠀⠘⠳⢦⣢⣠⣡⡤⡗⠏⠂⠀⠀⠀⠀⠀⠀⠀⠘⠻⢺⢦⢶⢖⠗⠋⠁⠀⠀",
+			message: "Don't forget to register for the MUBBoard March Madness bracket! Signup closes in a few days!",
 		},
 		{
 			name: "Screenwriter",

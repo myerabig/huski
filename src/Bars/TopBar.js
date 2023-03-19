@@ -10,7 +10,7 @@ import Tooltip from "@mui/material/Tooltip";
 import IconButton from "@mui/material/IconButton";
 import Avatar from "@mui/material/Avatar";
 
-const TopBar = () => {
+const TopBar = (props) => {
 	return (
 		<AppBar className='TopBar' position='fixed' sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}>
 			<Container maxWidth='xl'>
@@ -35,7 +35,7 @@ const TopBar = () => {
 					</Typography>
 					<Box sx={{ flexGrow: 0 }}>
 						<Tooltip title='My Profile'>
-							<IconButton sx={{ p: 0 }}>
+							<IconButton sx={{ p: 0 }} onClick={() => props.setCurrentPage("Profile")}>
 								<Avatar src={require("../Media/avatar.jpg")} />
 							</IconButton>
 						</Tooltip>
